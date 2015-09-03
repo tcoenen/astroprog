@@ -12,6 +12,7 @@ packages like IDL and Matlab.
 
 The Linux part of our course will teach you some of the backgrounds and 
 commands that you will need to be productive. More specifically:
+
 * You should attain basic knowledge of the UNIX/Linux file system layout
   and the use of permissions on UNIX/Linux to control file access. 
 * You should be able to access the command line (we will be using the 
@@ -28,6 +29,7 @@ in general and programming in Python in particular. Because of the limited
 extent of this course, we will focus our attention on a practical subset of
 the Python language --- and test whether you attain working knowledge of that
 subset. Specifically:
+
 * You should be able to design and implement a properly structured Python
   program written in the standard Python style. You will also learn to
   properly document you program, use proper variable and function naming,
@@ -40,6 +42,7 @@ subset. Specifically:
 
 A further more general goal is that you develop problem solving skills using
 programming tools.
+
 * Learn how to find help when programming. That includes how to read the
   documentation available with Python and its libraries, and which 
   resources are available on-line.
