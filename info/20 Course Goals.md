@@ -6,7 +6,7 @@ the Python programming language (more specifically Python 2.7 which, despite
 Python 3 being available, is still the most prevalent in research). Python was
 chosen for its relatively 
 straightforward syntax, its free availability, the wide range of libraries in
-its ``eco system''. For the fields physics and astronomy in particular, Python
+its eco system. For the fields physics and astronomy in particular, Python
 provides a large number of libraries for scientific computing and is displacing
 packages like IDL and Matlab.
 
