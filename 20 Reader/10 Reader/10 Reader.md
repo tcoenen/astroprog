@@ -7,3 +7,4 @@ Download the most recent version of the reader [here](20150908-astroprog.pdf) (l
 ## Reader change log:
 * 2015-09-03 - Uploaded introduction and chapter about BASH.
 * 2015-09-08 - Fixed some typos, added first chapters about Python.
+* 2015-09-10 - Slightly updated version of first assignment (chapter 7)
