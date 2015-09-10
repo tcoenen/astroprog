@@ -1,5 +1,7 @@
 Week 1:
-    '/weeks/week-1'
+    'Introductions and pretest':
+    'Pretest': '/weeks/week-1'
 Week 2:
-    '/weeks/week-2'
+    'Linux command line':
+    'BASH assignment': '/weeks/week-2'
 
