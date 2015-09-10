@@ -1,0 +1,9 @@
+course:
+    title: Basic Linux and Coding for Astronomy and Astrophyisc
+    short: Programming AA
+    submit: BLCAA
+    mail: t.coenen@uva.nl
+
+acknowledgements:
+    - 'Thanks to the UvA Minor Programming for hosting astro.mprog.nl'
+
