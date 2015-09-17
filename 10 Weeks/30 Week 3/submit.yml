@@ -1,0 +1,7 @@
+name: wk3
+required:
+    - week3.pdf
+    - datareader.py
+    - stationdata.py
+    - anualaverages.py
+    - stationdata.tar.gz
