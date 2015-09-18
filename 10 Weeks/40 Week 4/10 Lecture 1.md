@@ -1,0 +1,10 @@
+## Basic program structure and plotting
+This week we will look at the basics of program structure. How can you make
+a nice modular program and document it. Make sure you read all the available
+Python chapters.
+
+The homework assignment for group A will be making plots using Berkeley Earth
+data, while the homework for group B will be a bit more advanced.
+
+
+
