@@ -8,6 +8,7 @@ data, while the homework for group B will be a bit more advanced.
 
 * [Group A](assignment-week-4-group-a.pdf)
 * [Group B](assignment-week-4-group-b.pdf)
+* [Tarball of data files for Group B](lotaas-bestprof-files.tar.gz)
 
 
 ## Examples used in class
