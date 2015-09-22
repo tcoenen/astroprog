@@ -6,5 +6,8 @@ Python chapters.
 The homework assignment for group A will be making plots using Berkeley Earth
 data, while the homework for group B will be a bit more advanced.
 
+* [Group A](assignment-week-5-group-a.pdf)
+* [Group B](assignment-week-4-group-b.pdf)
+
 
 
