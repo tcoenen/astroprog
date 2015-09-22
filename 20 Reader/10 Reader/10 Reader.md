@@ -10,3 +10,4 @@ Download the most recent version of the reader [here](20150918-astroprog.pdf) (l
 * 2015-09-10 - Slightly updated version of first assignment
 * 2015-09-15 - Added file IO chapter + exercise for week 3 (in chapter 9)
 * 2015-09-18 - Added program structure + plotting chapters.
+* 2015-09-22 - Added week 4 assignments for group A and B
