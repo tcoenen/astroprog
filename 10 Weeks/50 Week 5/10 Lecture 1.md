@@ -11,3 +11,5 @@ following documentation available on the web:
 
 The homework assignments will be about image manipulation using Numpy and
 Scipy.
+
+* [Group A, week 5](assignment-week-5-group-a.pdf)
