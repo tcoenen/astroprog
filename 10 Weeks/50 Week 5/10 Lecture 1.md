@@ -12,4 +12,7 @@ following documentation available on the web:
 The homework assignments will be about image manipulation using Numpy and
 Scipy.
 
-* [Group A, week 5](assignment-week-5-group-a.pdf)
+* [Week 5](assignment-week-5.pdf)
+* [workaround.py](workaround.py) (If on the university computers `scipy.ndimage`
+  is not present and working this file provides an alternative `imread` function
+  using the Python Imaging Library and Numpy.)
