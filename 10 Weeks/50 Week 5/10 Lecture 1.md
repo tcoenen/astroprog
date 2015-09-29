@@ -13,6 +13,7 @@ The homework assignments will be about image manipulation using Numpy and
 Scipy.
 
 * [Week 5](assignment-week-5.pdf)
+* [Solar Dynamics Observatory](f_211_193_171_1024.png)
 * [workaround.py](workaround.py) (If on the university computers `scipy.ndimage`
   is not present and working this file provides an alternative `imread` function
   using the Python Imaging Library and Numpy.)
