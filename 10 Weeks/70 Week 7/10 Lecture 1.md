@@ -16,5 +16,5 @@ Data files for the first part of the exercise:
 Data files for the second last part of the exercise can be downloaded from 
 the Sloan Digital Sky Survey archive:
 
-* [SDSS data](http://data.sdss3.org/bulkFields/names)
+* [SDSS data](http://data.sdss3.org/bulkFields/)
 
