@@ -2,7 +2,7 @@
 Here you can find the most up to date version of the reader for our course.
 More chapters will be made available as the course progresses.
 
-Download the most recent version of the reader [here](20151013-astroprog-a.pdf) (last updated 2015-10-06).
+Download the most recent version of the reader [here](20151013-astroprog.pdf) (last updated 2015-13-06).
 
 ## Reader change log:
 * 2015-09-03 - Uploaded introduction and chapter about BASH.
@@ -13,4 +13,4 @@ Download the most recent version of the reader [here](20151013-astroprog-a.pdf) 
 * 2015-09-22 - Added week 4 assignments for group A and B
 * 2015-09-22 - Fixed group A week 4 assignment.
 * 2015-10-06 - Group A assignment week 6.
-* 2015-10-13 - First part of assignment of week 7.
+* 2015-10-13 - Full assignment for week 7 is available.
