@@ -6,7 +6,7 @@ simple analysis on them.
 Data files for the first part of the exercise:
 
 * [NGC869 B](testNGC869-001B.fit)
-* [NGC869 L](testNGC869-001L.fit)
+* [NGC869 L](testNGC869-001L.fit) (L is the 'no filter' band of the APO telescope)
 * [NGC869 R](testNGC869-001R.fit)
 * [NGC869 V](testNGC869-001V.fit)
 * [NGC884 B](testNGC884-001B.fit)
